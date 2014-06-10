@@ -1,2 +1,2 @@
 hello world all
-close #4
+fix #4
