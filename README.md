@@ -1,1 +1,1 @@
-# repomain rock!
+# repomain rocks!
